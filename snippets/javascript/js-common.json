@@ -1,0 +1,12 @@
+{
+  "consoleLog": {
+    "prefix": "clg",
+    "body": "console.log(${1})",
+    "description": "log"
+  },
+  "consoleLogObject": {
+    "prefix": "log",
+    "body": "console.log('${1}:', ${1})",
+    "description": "log"
+  }
+}
